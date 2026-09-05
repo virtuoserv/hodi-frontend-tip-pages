@@ -1,0 +1,1 @@
+import{A as e,E as t,r as n}from"./api-B3Jnga_g.js";import{St as r}from"./index-BiZKfQMW.js";var i=r(({app:r})=>{t(),r.config.globalProperties.$axios=e,r.config.globalProperties.$api=n});export{n as api,i as default};

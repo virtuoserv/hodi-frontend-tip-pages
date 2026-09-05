@@ -1,0 +1,1 @@
+import{S as e,t}from"./create-DB55Sa5_.js";var n=t({name:`QSpace`,setup(){let t=e(`div`,{class:`q-space`});return()=>t}});export{n as t};

@@ -1,0 +1,1 @@
+import{y as e}from"./inject-obj-prop-D2tFdH5s.js";import{M as t}from"./create-DB55Sa5_.js";import{c as n}from"./LocalStorage-DtWi2xu5.js";function r(){let r=e(!n.value);return r.value||t(()=>{r.value=!0}),{isHydrated:r}}export{r as t};
