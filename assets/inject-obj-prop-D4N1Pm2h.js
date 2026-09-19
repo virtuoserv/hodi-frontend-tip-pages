@@ -1,0 +1,1 @@
+function e(e,t,n,r){return Object.defineProperty(e,t,{get:n,set:r,enumerable:!0}),e}export{e as t};

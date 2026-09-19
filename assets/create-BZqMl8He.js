@@ -1,0 +1,1 @@
+import{f as e,g as t}from"./reactivity.esm-bundler-CZC-3hDo.js";import{v as n}from"./runtime-core.esm-bundler-Db4ffyhO.js";import{t as r}from"./inject-obj-prop-D4N1Pm2h.js";function i(t){return e(n(t))}function a(t){return e(t)}var o=(e,n)=>{let i=t(e);for(let t in e)r(n,t,()=>i[t],e=>{i[t]=e});return n};export{a as n,o as r,i as t};
