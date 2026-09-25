@@ -1,0 +1,1 @@
+import{t as e}from"./LocalStorage-CoRqUHtL.js";import{K as t,bt as n}from"./index-DKgW2TdG.js";var r=`ui_theme_mode`,i=t(()=>{n.set(!1),e.set(r,`light`)});export{i as default};
