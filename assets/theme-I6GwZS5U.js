@@ -1,0 +1,1 @@
+import{t as e}from"./LocalStorage-CoRqUHtL.js";import{G as t,H as n,K as r,U as i,V as a,W as o,nt as s,q as c}from"./index-BeuMEWcy.js";var l=s(()=>{e.remove(a),n(),o(e=>{t()===`system`&&i(r(),c(`system`,e))})});export{l as default};
