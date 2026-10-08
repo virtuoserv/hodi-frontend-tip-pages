@@ -1,0 +1,1 @@
+.zf-skeleton[data-v-2f2f930c]{gap:14px;display:grid}.zf-skeleton__bar[data-v-2f2f930c]{border-radius:var(--radius-sm);background:color-mix(in srgb, var(--color-border) 55%, transparent);height:46px;animation:1.4s ease-in-out infinite zf-shimmer-2f2f930c}@keyframes zf-shimmer-2f2f930c{0%,to{opacity:.4}50%{opacity:.8}}
