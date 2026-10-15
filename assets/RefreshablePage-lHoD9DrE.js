@@ -1,0 +1,1 @@
+import{I as e,l as t,q as n,v as r,z as i}from"./runtime-core.esm-bundler-DgE2IOLj.js";import{t as a}from"./QPullToRefresh-Cr9kpRKt.js";var o=r({__name:`RefreshablePage`,emits:[`refresh`],setup(r,{emit:o}){let s=o;function c(e){s(`refresh`,e)}return(r,o)=>(e(),t(a,{onRefresh:c},{default:n(()=>[i(r.$slots,`default`)]),_:3}))}});export{o as t};
