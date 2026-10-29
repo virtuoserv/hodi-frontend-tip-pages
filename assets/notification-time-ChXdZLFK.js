@@ -1,0 +1,1 @@
+function e(e){if(!e)return``;let t=new Date(e);if(Number.isNaN(t.getTime()))return``;let n=Math.round((Date.now()-t.getTime())/6e4);if(n<1)return`now`;if(n<60)return`${n}m`;let r=Math.round(n/60);return r<24?`${r}h`:t.toLocaleDateString(`en-KE`,{month:`short`,day:`numeric`})}export{e as t};

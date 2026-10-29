@@ -1,0 +1,1 @@
+var e={xs:18,sm:24,md:32,lg:38,xl:46},t={size:String};function n(e){let t=new Map;return n=>{if(n===void 0)return null;let r=t.get(n);return r===void 0&&(t.size>500&&t.clear(),r={fontSize:n in e?`${e[n]}px`:n},t.set(n,r)),r}}var r=n(e);export{t as i,r as n,e as r,n as t};
