@@ -1,0 +1,1 @@
+function e(e){return String(e??``).replace(/\s+/g,``).toUpperCase()}export{e as t};
