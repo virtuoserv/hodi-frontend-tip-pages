@@ -1,0 +1,1 @@
+function e(e){return typeof window>`u`||typeof document>`u`?``:getComputedStyle(document.documentElement).getPropertyValue(e).trim()}export{e as t};

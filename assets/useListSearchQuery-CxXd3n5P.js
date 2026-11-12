@@ -1,0 +1,1 @@
+import{s as e}from"./runtime-core.esm-bundler-DLkV8BEn.js";import{$n as t,Qn as n}from"./index-rRRmLgX5.js";function r(r=`q`){let i=n(),a=t();return e({get:()=>{let e=i.query[r];return typeof e==`string`?e:``},set:e=>{let t={...i.query},n=String(e??``).trim();n?t[r]=n:delete t[r],a.replace({query:t})}})}export{r as t};

@@ -1,0 +1,1 @@
+function e(e){let t=e.trim();if(!t)return``;let n=t;try{let e=new URL(t,window.location.origin).pathname.split(`/`).filter(Boolean),r=e.at(-1);n=r===`manage`?e.at(-2)??``:r??``}catch{n=t}return n.replace(/[^a-zA-Z0-9]/g,``).toUpperCase()}export{e as t};

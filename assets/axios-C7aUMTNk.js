@@ -1,0 +1,1 @@
+import{O as e,r as t}from"./api-D_zejhlu.js";import{s as n}from"./credential-storage-DrcUQmKU.js";import{xn as r}from"./index-rRRmLgX5.js";var i=r(({app:r})=>{n(),r.config.globalProperties.$axios=e,r.config.globalProperties.$api=t});export{t as api,i as default};

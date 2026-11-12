@@ -1,0 +1,1 @@
+import{xn as e,yn as t}from"./index-rRRmLgX5.js";var n=e(({router:e,store:n})=>{typeof navigator>`u`||!(`serviceWorker`in navigator)||navigator.serviceWorker.addEventListener(`message`,r=>{var i;if(((i=r.data)==null?void 0:i.type)!==`NOTIFICATION_CLICK`)return;let a=t(n).resolveNotificationTarget(r.data);e.currentRoute.value.fullPath!==a&&e.push(a)})});export{n as default};
