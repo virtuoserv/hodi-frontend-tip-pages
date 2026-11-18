@@ -1,0 +1,1 @@
+import{v as e}from"./reactivity.esm-bundler-1BXxFV93.js";import{M as t}from"./runtime-core.esm-bundler-DLkV8BEn.js";import{r as n}from"./Platform-XYRsUV1Y.js";function r(){let r=e(!n.value);return r.value||t(()=>{r.value=!0}),{isHydrated:r}}export{r as t};

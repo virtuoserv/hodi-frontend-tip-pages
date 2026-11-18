@@ -1,0 +1,1 @@
+import{Sn as e,wn as t}from"./index-CP77an0e.js";var n=t(({router:t,store:n})=>{typeof navigator>`u`||!(`serviceWorker`in navigator)||navigator.serviceWorker.addEventListener(`message`,r=>{var i;if(((i=r.data)==null?void 0:i.type)!==`NOTIFICATION_CLICK`)return;let a=e(n).resolveNotificationTarget(r.data);t.currentRoute.value.fullPath!==a&&t.push(a)})});export{n as default};

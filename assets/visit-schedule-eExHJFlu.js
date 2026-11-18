@@ -1,0 +1,1 @@
+function e(e,t,n,r,i){let a=n===`scheduled_start`?e:t,o=r===`date`?`${i}T${a.slice(11,16)}`:`${a.slice(0,10)}T${i}`;if(n===`scheduled_end`)return{start:e,end:o};let s=Date.parse(`${e}:00Z`),c=Date.parse(`${t}:00Z`),l=Date.parse(`${o}:00Z`),u=Number.isFinite(s)&&Number.isFinite(c)&&c>s?c-s:18e5;return{start:o,end:new Date(l+u).toISOString().slice(0,16)}}export{e as t};
